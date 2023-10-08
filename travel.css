@@ -323,6 +323,19 @@ input[type='checkbox'] {
 .collapsible3-content3 p {
   margin-bottom: 0;
 }
+@media(max-width:735px){
+  .btn a {
+    font-size: x-small;
+    
+    padding: 7px 15px;
+  
+  
+  
+  }
+  
+
+
+}
 
 
 
